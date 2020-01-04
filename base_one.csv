@@ -1,0 +1,19 @@
+student_id,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,q21,q22,q23,q24,q25,q26,q27,q28,q29,q30
+unhcomp 101,B,C,B,D,E,B,D,A,A,D,B,B,D,B,A,D,A,B,A,C,C,B,C,E,C,D,B,B,C,C
+unhcomp 102,B,C,D,,E,A,D,,D,A,B,B,A,B,A,D,A,B,D,C,B,A,B,E,D,C,C,B,,C
+unhcomp 103,,A,B,D,E,A,,,A,B,,B,,B,,,C,,,C,C,C,C,,,A,C,B,,C
+unhcomp 104,B,C,B,D,E,B,C,A,A,D,B,B,D,B,A,D,A,E,,C,C,C,C,E,C,D,B,B,A,C
+unhcomp 105,A,C,A,C,,B,E,,C,D,B,,D,B,A,B,D,B,A,C,C,B,B,E,,,,,,
+unhcomp 107,E,A,B,D,D,A,E,,C,,,D,B,B,B,D,B,A,B,,,A,B,E,D,D,E,A,,
+unhcomp 108,E,A,A,D,C,A,D,,D,,B,,A,C,,D,B,,,A,D,,,B,,A,,B,,
+unhcomp 109,,,B,,,A,E,,,C,,B,,,,,B,A,A,,,A,C,,B,,B,,,
+unhcomp 110,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+unhcomp 112,B,C,D,D,C,B,D,,A,C,,A,C,,,,,E,,,D,,,,,A,,,,
+unhcomp 113,A,C,B,D,E,A,E,E,D,B,D,B,D,B,A,C,D,B,D,C,D,,,A,,A,B,B,,D
+unhcomp 114,B,C,B,D,E,B,,,,B,,C,,,,,B,,A,,,,,,B,,,,,
+unhcomp 116,E,,B,,,A,E,,D,B,,B,,,,D,D,B,,,,C,,B,B,C,B,B,,
+unhcomp 117,B,C,B,C,E,B,C,A,,C,B,B,C,B,A,B,A,B,B,A,E,C,B,,,A,,E,C,
+unhcomp 118,B,C,D,D,E,A,D,C,C,C,E,A,D,C,C,C,C,B,A,A,D,C,A,E,,A,B,B,,
+unhcomp 119,B,C,B,D,D,B,D,C,A,C,E,C,B,B,A,D,D,,A,A,E,C,A,,,C,B,B,D,C
+unhcomp 120,A,D,B,,D,A,D,E,D,B,B,B,,A,C,,B,D,E,A,E,C,A,B,,A,,,B,C
+unhcomp 121,B,C,,C,B,C,D,,,,,D,,,,,C,,,,,,,,,,,,,
