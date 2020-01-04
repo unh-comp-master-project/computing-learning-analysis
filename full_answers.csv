@@ -1,0 +1,51 @@
+question_number,question_text,answer
+1,"What is the type of the variable x below?
+x = 3.14159",B
+2,"What is the type of the variable x below?
+x = 'Orange'",C
+3,"What is the output of the print(x1*x2), if x1 = 2.0 and x2 = 4?",B
+4,"Which of the following is the correct if clause if we want to know if someone is old enough to vote, but too young to drink?  (The voting age is 18 and the drinking age is 21.)",D
+5,What should we use between x and y to return True if x and y are different?,E
+6,What should we use between x and y to return True if x and y are the same value?,B
+7,"What will the following code snippet print? 
+for num in range(4):",D
+8,"What will be displayed after the following code is executed?
+total = 0",A
+9,"What will the following print?
+x = 10",A
+10,"How would you call the function below to eat stinky cheese for dinner? 
+def madlib(noun, adjective):",D
+11,"What will display after the following code is executed?
+def main():",B
+12,"What will this code print?
+pets = ['dog', 'iguana', 'bird']",B
+13,"What is the accumulator variable in this code?
+names = ['Alice', 'Bob', 'Carol']",D
+14,What will be stored in greetings after the code in question 13 runs? ,B
+15,"What can we add in the missing line so that we can find the area?
+width = '760'",A
+16,"What will print out after running the following code snippet?
+for letter in ['A', 'B', 'C']:",D
+17,"The following code has a syntax error. What line has the error?
+1        def square(number)",A
+18,You need to write a function that returns the average height of students in your class.  What type of input parameter should your function accept?  (Choose only one.),B
+19,You need to write a function that returns the name of the tallest student in your class.  What type of input parameter should your function accept?  (Choose only one.),A
+20,"What will print when we run the following code?
+x = 5",C
+21,"What will print when we run the following code?
+x = 5",C
+22,"The following code is supposed to tell us if an item in the inventory is out of stock, but it doesn't work. Why not?",A
+23,"The following code is supposed to print which item in an inventory has the largest stock, but it doesn't work. Why not?  ",C
+24,"What will the following code print?
+y = 1",B
+25,"Suppose you have the functions below. What do we expect will print?
+def calculate(base, exponent):",C
+26,"What will the following code print?
+x = 5 ",C
+27,"Suppose you have the functions below. What do we expect will print?
+def first_half(string):",B
+28,What will the value of inventory be when we run the following code?,B
+29,"What will the following code print?
+def test(number):",C
+30,"What is the result of the following code?
+def embiggen(x):",C
