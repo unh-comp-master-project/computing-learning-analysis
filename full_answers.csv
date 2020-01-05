@@ -1,31 +1,31 @@
-number,answer,topic,content
-q1,B,Types,What is the type of the variable x below?
-q2,C,Types,What is the type of the variable x below?
-q3,B,Types,"What is the output of the print(x1*x2), if x1 = 2.0 and x2 = 4?"
-q4,D,Logic,"Which of the following is the correct if clause if we want to know if someone is old enough to vote, but too young to drink?  (The voting age is 18 and the drinking age is 21.)"
-q5,E,Operators,What should we use between x and y to return True if x and y are different?
-q6,B,Operators,What should we use between x and y to return True if x and y are the same value?
-q7,D,Loops,What will the following code snippet print?
-q8,A,Loops,What will be displayed after the following code is executed?
-q9,A,Operators,What will the following print?
-q10,D,Functions,How would you call the function below to eat stinky cheese for dinner?
-q11,B,Functions,What will display after the following code is executed?
-q12,B,Lists,What will this code print?
-q13,D,Loops,What is the accumulator variable in this code?
-q14,B,Loops,What will be stored in greetings after the code in question 13 runs? 
-q15,A,Types,What can we add in the missing line so that we can find the area?
-q16,D,Loops,What will print out after running the following code snippet?
-q17,A,Debugging,The following code has a syntax error. What line has the error?
-q18,B,Types,You need to write a function that returns the average height of students in your class.  What type of input parameter should your function accept?  (Choose only one.)
-q19,A,Types,You need to write a function that returns the name of the tallest student in your class.  What type of input parameter should your function accept?  (Choose only one.)
-q20,C,Conditionals,What will print when we run the following code?
-q21,C,Conditionals,What will print when we run the following code?
-q22,A,Debugging,"The following code is supposed to tell us if an item in the inventory is out of stock, but it doesn't work. Why not?"
-q23,C,Debugging,"The following code is supposed to print which item in an inventory has the largest stock, but it doesn't work. Why not?  "
-q24,B,Functions,What will the following code print?
-q25,C,Integration,Suppose you have the functions below. What do we expect will print?
-q26,C,Functions,What will the following code print?
-q27,B,Integration,Suppose you have the functions below. What do we expect will print?
-q28,B,Integration,What will the value of inventory be when we run the following code?
-q29,C,Integration,What will the following code print?
-q30,C,Functions,What is the result of the following code?
+number,answer,topic,difficulty,content
+q1,B,Types,Easy,What is the type of the variable x below?
+q2,C,Types,Easy,What is the type of the variable x below?
+q3,B,Types,Moderate,"What is the output of the print(x1*x2), if x1 = 2.0 and x2 = 4?"
+q4,D,Logic,Moderate,"Which of the following is the correct if clause if we want to know if someone is old enough to vote, but too young to drink?  (The voting age is 18 and the drinking age is 21.)"
+q5,E,Operators,Easy,What should we use between x and y to return True if x and y are different?
+q6,B,Operators,Easy,What should we use between x and y to return True if x and y are the same value?
+q7,D,Loops,Easy,What will the following code snippet print?
+q8,A,Loops,Moderate,What will be displayed after the following code is executed?
+q9,A,Operators,Moderate,What will the following print?
+q10,D,Functions,Easy,How would you call the function below to eat stinky cheese for dinner?
+q11,B,Functions,Moderate,What will display after the following code is executed?
+q12,B,Lists,Easy,What will this code print?
+q13,D,Loops,Moderate,What is the accumulator variable in this code?
+q14,B,Loops,Challenging,What will be stored in greetings after the code in question 13 runs? 
+q15,A,Types,Challenging,What can we add in the missing line so that we can find the area?
+q16,D,Loops,Challenging,What will print out after running the following code snippet?
+q17,A,Debugging,Moderate,The following code has a syntax error. What line has the error?
+q18,B,Types,Moderate,You need to write a function that returns the average height of students in your class.  What type of input parameter should your function accept?  (Choose only one.)
+q19,A,Types,Moderate,You need to write a function that returns the name of the tallest student in your class.  What type of input parameter should your function accept?  (Choose only one.)
+q20,C,Conditionals,Challenging,What will print when we run the following code?
+q21,C,Conditionals,Challenging,What will print when we run the following code?
+q22,A,Debugging,Challenging,"The following code is supposed to tell us if an item in the inventory is out of stock, but it doesn't work. Why not?"
+q23,C,Debugging,Moderate,"The following code is supposed to print which item in an inventory has the largest stock, but it doesn't work. Why not?  "
+q24,B,Functions,Super Challengin,What will the following code print?
+q25,C,Integration,Challenging,Suppose you have the functions below. What do we expect will print?
+q26,C,Functions,Challenging,What will the following code print?
+q27,B,Integration,Super Challengin,Suppose you have the functions below. What do we expect will print?
+q28,B,Integration,Super Challengin,What will the value of inventory be when we run the following code?
+q29,C,Integration,Super Challengin,What will the following code print?
+q30,C,Functions,Challenging,What is the result of the following code?
